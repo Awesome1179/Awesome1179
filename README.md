@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  I'm a high school student pursuing my passion of computer science. I'm a passionate learner who's always willing to grow and advance as a developer. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also enjoy competetive coding and building my own projects. Follow me in my journey to keep up to date with new projects and much more. 
+  I'm a high school student pursuing my passion of computer science. I'm an enthusiastic learner who's always willing to grow and advance as a developer. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also enjoy competetive coding and building my own projects. Follow me in my journey to keep up to date with new projects and much more. 
 </p>
 
 <br>
