@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 <p align="center">
  
-
+</p align="center">
+<img src="https://github.com/ritik307/ritik30/blob/main/images/newbg(1).png" />
 
 <p align="center">
  
@@ -28,8 +29,23 @@ Here are some ideas to get you started:
 
 </p>
 
+<h2 align="center">About Me:</h2>
+
 <p align="center">
   I'm a high school student pursuing my passion of computer science. I'm an enthusiastic learner who's always willing to grow and advance as a developer. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also enjoy competetive coding and building my own projects. Follow me in my journey to keep up to date with new projects and much more. 
+</p>
+
+<p align="center">
+  
+<a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
+ <img src="https://img.shields.io/badge/-Zinan Hassan-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
+</a>
+ <a href="HackerRank: https://www.hackerrank.com/zulkerninehassan">
+ <img src="https://img.shields.io/badge/-Awesome1179-black?style=flat-square&logo=HackerRank&logoColor=white&link=HackerRank:https://www.hackerrank.com/zulkerninehassan"/>
+</a>
+ <a href="https://codeforces.com/awesome1179">
+ <img src="https://img.shields.io/badge/-Awesome1179-black?style=flat-square&logo=codeforces&logoColor=white&link=https://codeforces.com/ritikhere307"/>
+</a>
 </p>
 
 <br>
@@ -51,21 +67,6 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity"/>
 </p>
 
-<h2 align="center">Find Me On:</h2>
-
-<p align="center">
-  
-<a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
- <img src="https://img.shields.io/badge/-Zinan Hassan-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
-</a>
- <a href="HackerRank: https://www.hackerrank.com/zulkerninehassan">
- <img src="https://img.shields.io/badge/-Awesome1179-black?style=flat-square&logo=HackerRank&logoColor=white&link=HackerRank:https://www.hackerrank.com/zulkerninehassan"/>
-</a>
- <a href="https://codeforces.com/awesome1179">
- <img src="https://img.shields.io/badge/-Awesome1179-black?style=flat-square&logo=codeforces&logoColor=white&link=https://codeforces.com/ritikhere307"/>
-</a>
-</p>
-
 
 <h2 align="center">
   Contribution Graph:
@@ -74,9 +75,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/Awesome1179/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-<h2 align="center">
- Github Trophies:
-<h2/>
+<h2 align="center">Github Trophies:</h2>
  
 <p align = "center">
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Awesome1179&theme=radical&margin-w=10&margin-h=10" />
@@ -102,3 +101,4 @@ Here are some ideas to get you started:
  <img src="https://activity-graph.herokuapp.com/graph?username=Awesome1179&theme=redical">
 </p> 
 <hr>
+ 
