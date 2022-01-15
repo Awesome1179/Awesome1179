@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋
 
 <!--
@@ -19,7 +20,7 @@ Here are some ideas to get you started:
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/ritik307/ritik30/blob/main/images/newbg(1).png" />
+<img src="https://github.com/Awesome1179/Awesome1179/blob/main/Designer%20in%20making.png" />
 
 <p align="center">
  
