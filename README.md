@@ -23,10 +23,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/Awesome1179/Awesome1179/blob/main/Designer%20in%20making.png" />
 
 <p align="center">
- 
- <img src="https://badges.pufler.dev/visits/Awesome1179/Awesome1179"/> 
- <img src="https://badges.pufler.dev/repos/Awesome1179"/>
- <img src="https://badges.pufler.dev/commits/monthly/Awesome1179"/>
+
 
 </p>
 
@@ -57,13 +54,8 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c"/>
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/C-black?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-java-black?style=flat-square&logo=java"/>
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter"/>
 <img src="https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino"/>
  <img src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity"/>
 </p>
