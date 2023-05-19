@@ -1,22 +1,3 @@
-<!--
-### Hi there 👋
-
-<!--
-**Awesome1179/Awesome1179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...something big
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <p align="center">
  
 </p align="center">
@@ -30,7 +11,7 @@ Here are some ideas to get you started:
 <h2 align="center">About Me:</h2>
 
 <p align="center">
-  I'm a high school student pursuing my passion of computer science. 
+  High school student with a love for exploring the vast realm of computer science. 
 </p>
 
 <p align="center">
