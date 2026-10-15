@@ -27,12 +27,11 @@
 <h2 align="center">Technology Stack:</h2>
 
 <p align="center">
- <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
 <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c"/>
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-R-black?style=flat-square&logo=r"/>
 <img src="https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino"/>
- <img src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity"/>
+<img src="https://img.shields.io/badge/-Assembly-black?style=flat-square"/>
 </p>
 
